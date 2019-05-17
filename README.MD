@@ -13,7 +13,7 @@ Codesquad 학생들이 배우며 작성한 블로그와 세미나자료를 모�
 
 [Debounce란 뭘까요?](https://medium.com/@feanar729/debounce%EB%9E%80-%EB%AD%98%EA%B9%8C%EC%9A%94-82204c8b953f)
 
-
+[Arrow Function in javascript](https://sonypark.github.io/#/./docs/javascript/2019-05-17-ArrowFunction)
 
 ------
 
